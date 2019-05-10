@@ -1,12 +1,13 @@
-Subject: Important: Read the manual!
+﻿Subject: Importante: Leia o manual!
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-I know… you’re so good at engineering, systems, and life in general you haven’t needed a manual in ages. Right?
 
-Well, trust me on this one: You really, really, really, really really want to read the manual here. 
+Eu sei ... você é tão bom em engenharia, sistemas e vida em geral que você não precisa de um manual em anos. Certo?
 
-Even better if you keep it handy as you work.
+Bem, confie em mim: Você realmente, realmente, realmente, realmente quer ler o manual aqui.
 
-Don’t be like the non-manual-using person who quit just before you started and whose name shall never be uttered again...
+Melhor ainda se você mantiver a mão enquanto trabalha.
+
+Não seja como a pessoa que não usa manuais, que desistiu pouco antes de começar e cujo nome nunca mais será pronunciado ...
 
 Carl

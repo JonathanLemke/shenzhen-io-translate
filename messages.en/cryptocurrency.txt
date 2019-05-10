@@ -1,9 +1,9 @@
-Subject: Cryptocurrency deposit terminal
+﻿Subject: Terminal de depósito de criptomoeda
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-We’ve partnered with a major financial services company to create a cryptocurrency deposit terminal for people concerned about turbulence in the financial system. It should do especially well in regions where people are worried their government-issued currencies may be devalued soon.
+Fizemos uma parceria com uma grande empresa de serviços financeiros para criar um terminal de depósito de criptomoedas para pessoas preocupadas com turbulências no sistema financeiro. Deve funcionar especialmente bem em regiões onde as pessoas estão preocupadas que suas moedas emitidas pelo governo possam ser desvalorizadas em breve.
 
-The terminal reads an account number from a cheap magnetic stripe card, accepts a cash deposit, and sends the information to the bank over the internet. Because nearly all of the money is flowing in a single direction we just need to have it handle deposits.
+O terminal lê um número de conta de um cartão de tarja magnética barato, aceita um depósito em dinheiro e envia as informações para o banco pela Internet. Como quase todo o dinheiro está fluindo em uma única direção, precisamos apenas lidar com os depósitos.
 
 Lili Wu
 
@@ -11,22 +11,22 @@ Lili Wu
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-Great. I think we can really catch the wave with this one. Cryptocurrencies are really surging in popularity again thanks to recent market fluctuations. It seems even people who used to work primarily with cash are giving up and looking for an easy way to convert their money to digital these days. 
+Ótimo. Acho que podemos pegar a onda com essa. Criptomoedas estão realmente crescendo em popularidade novamente graças às recentes flutuações do mercado. Parece que até mesmo pessoas que costumavam trabalhar principalmente com dinheiro estão desistindo e procurando uma maneira fácil de converter seu dinheiro para o digital nos dias de hoje.
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-I wish I had my own currency. It must be nice to use a medium of exchange that you can manipulate any time you like.
+Eu gostaria de ter minha própria moeda. Deve ser bom usar um meio de troca que você possa manipular quando quiser.
 
 -----------
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-No politics please, Carl.
+Nenhuma política por favor, Carl.
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Right. To think I almost forgot…
+Certo. Pensar que quase me esqueci ...

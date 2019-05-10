@@ -1,36 +1,36 @@
-﻿Subject: Replacement factory module
+﻿Subject: Módulo de fábrica de substituição
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Our factory floor has some examples of older equipment that require control signals to be amplified. We had a device to adjust signals for this type of machine, but recently it was broken (smashed).
+Nosso chão de fábrica tem alguns exemplos de equipamentos mais antigos que exigem que os sinais de controle sejam amplificados. Nós tínhamos um dispositivo para ajustar sinais para este tipo de máquina, mas recentemente ele foi quebrado (quebrado).
 
-This is an appropriate project to teach you about inputs.
+Este é um projeto apropriado para ensinar sobre insumos.
 
-Jie. 
+Jie
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Smashed?? Hang on a sec, what happened? Is everyone okay?
+Esmagado ?? Espere um segundo, o que aconteceu? Está tudo bem?
 
 ----------- 
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-No need to worry.
+Não precisa se preocupar.
 
-Jie.
+Jie
 
 ----------- (Completion)
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Looks good. Thank you.
+Parece bom. Obrigado.
 
-Jie.
+Jie
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Take care, yeah?
+Tome cuidado, sim?

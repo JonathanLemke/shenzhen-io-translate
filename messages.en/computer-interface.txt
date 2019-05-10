@@ -1,29 +1,29 @@
-Subject: Interface
+﻿Subject: Interface
 From: Kamran Farzan <k.farzan@neuro.avalon>
 CC: N. Pinsker <n.pinsker@elec.avalon>, J. Thiele <j.thiele@elec.avalon>
 
-Let’s get a custom board going for the current design.
+Vamos pegar uma placa personalizada para o design atual.
 
 ----------- 
 
 From: Lisa Suemura <l.suemura@bio.avalon>
 
-Did you even introduce yourself, Kamran?
+Você se apresentou, Kamran?
 
 ----------- 
 
 From: Lisa Suemura <l.suemura@bio.avalon>
 
-I guess someone’s too busy for introductions! Kamran is leading an effort to design a low-level brain-computer interface. It’s part of the NETHUNS project!
+Eu acho que alguém está muito ocupado para apresentações! Kamran está liderando um esforço para projetar uma interface cérebro-computador de baixo nível. Faz parte do projeto NETHUNS!
 
 ----------- (Completion)
 
 From: Enzo Capretti <e.capretti@avalon.avalon>
 
-Does this get you what you need?
+Isso te dá o que você precisa?
 
 -----------
 
 From: Kamran Farzan <k.farzan@neuro.avalon>
 
-For now, yes.
+Por enquanto, sim.

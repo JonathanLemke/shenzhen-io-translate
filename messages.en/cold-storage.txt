@@ -1,12 +1,12 @@
-Subject: The Ocean’s Bounty
+﻿Subject: A recompensa do oceano
 From: Derrick Paul <d.paul@mech.avalon>
 CC: A. Velhavenn <a.velhavenn@elec.avalon>
 
-Hiya! It was great to meet you at New Citizen Orientation. As I was explaining, the Ocean’s Bounty program is an initiative to meet all of Avalon City’s sustenance needs using nothing but the sea around us-- and we could really use your help!
+Oi! Foi ótimo conhecê-lo no New Citizen Orientation. Como eu estava explicando, o programa Ocean's Bounty é uma iniciativa para atender todas as necessidades de sustento de Avalon City usando nada além do mar ao nosso redor - e poderíamos realmente usar sua ajuda!
 
-It turns out that feeding a city is as much about logistics as much as it is biology (sorry, Lisa)! We have literal tons of ingredients and other materials to move back and forth between the cold storage area and the labs, so I’ve been planning out a robot that can handle that sort of thing. I’ve got the mechanical aspects down, but the control system is where you would come in. Once it’s finished, there are probably applications all over the city, so this is a project with pretty big impact!
+Acontece que alimentar uma cidade é tanto sobre logística quanto sobre biologia (desculpe, Lisa)! Temos toneladas de ingredientes e outros materiais para alternar entre a área de armazenamento a frio e os laboratórios, por isso planejo um robô capaz de lidar com esse tipo de coisa. Eu tenho os aspectos mecânicos para baixo, mas o sistema de controle é onde você entrava. Uma vez terminado, provavelmente há aplicações por toda a cidade, então este é um projeto com um impacto muito grande!
 
-Great to have you on board!
+Ótimo ter você a bordo!
 
 Derrick
 
@@ -14,17 +14,17 @@ Derrick
 
 From: Lisa Suemura <l.suemura@bio.avalon>
 
-Welcome to the team! I have to run, but it sounds like you’ve begun coordinating with Derrick already. Thanks for your help.
+Bem vindo ao time! Eu tenho que correr, mas parece que você já começou a coordenar com o Derrick. Obrigado pela ajuda.
 
 Lisa Suemura, PhD, FRSB
-Director, Ocean’s Bounty Program
+Diretor do Programa Bounty do Ocean
 Avalon City
 
 ----------- (Completion)
 
 From: Derrick Paul <d.paul@mech.avalon>
 
-Ah, this is great! So satisfying to finally have the components we need for our food development projects ready when we need them… and without having to go in the freezer all the time. You’re the best!
+Ah, isso é ótimo! É tão gratificante finalmente ter os componentes que precisamos para nossos projetos de desenvolvimento de alimentos prontos quando precisamos deles ... e sem ter que ir ao freezer o tempo todo. Você é o melhor!
 
 Derrick
 
@@ -32,7 +32,7 @@ Derrick
 
 From: Lisa Suemura <l.suemura@bio.avalon>
 
-Indeed, this is just what we needed to make forward progress. I think we’re getting close on the synthesized grains, too. My dream of creating a full seven-course French dinner made from nothing but materials derived from kelp is within sight!
+De fato, isso é exatamente o que precisávamos para avançar. Acho que estamos chegando perto dos grãos sintetizados também. Meu sonho de criar um jantar francês de sete pratos completo, feito de materiais que não sejam materiais derivados de algas, está à vista!
 
 Lisa
 
@@ -40,4 +40,4 @@ Lisa
 
 From: Derrick Paul <d.paul@mech.avalon>
 
-That’s gonna be interesting, all right!
+Isso vai ser interessante, tudo bem!

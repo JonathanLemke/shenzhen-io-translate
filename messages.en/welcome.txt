@@ -1,35 +1,35 @@
-Subject: Welcome
+﻿Subject: Bem vindo
 From: 王永红 <leader@longteng-co-ltd.gd.cn>
 
-Dear New Employee,
+Caro novo funcionário,
 
-Thank you for joining Shenzhen Longteng Electronics Company Ltd.
+Obrigado por se juntar à Shenzhen Longteng Electronics Company Ltd.
 
-We aim to become a world-leading company in the electronics industry and a respected brand with products in homes, offices, and public spaces across the world.
+Nosso objetivo é nos tornar uma empresa líder mundial na indústria de eletrônicos e uma marca respeitada com produtos em residências, escritórios e espaços públicos em todo o mundo.
 
-Longteng Electronics was founded on the following principles:
+A Longteng Electronics foi fundada com base nos seguintes princípios:
 
-1. Diligence: This means both diligence in your work and diligence in your life. When you encounter a problem, do not give up. Even if you are not talented, by working at it every day, little by little, you can achieve the goal.
+1. Diligência: Isso significa tanto diligência em seu trabalho quanto diligência em sua vida. Quando você encontrar um problema, não desista. Mesmo que você não seja talentoso, trabalhando todos os dias, pouco a pouco, você pode alcançar o objetivo.
 
-2. Connections: The process of creating electronics is the process of creating connections between different components. In the same way, we do business by making connections with other people. Therefore, it is important to always be making “connections” in your work.
+2. Conexões: O processo de criação de eletrônica é o processo de criação de conexões entre diferentes componentes. Da mesma forma, fazemos negócios fazendo conexões com outras pessoas. Portanto, é importante estar sempre fazendo “conexões” em seu trabalho.
 
-3. Salubriousness: An unhealthy mind creates an inefficient design. An unhealthy body builds a defective product. Follow “correct eating,” “correct behavior,” and “correct thinking” in order to maximize your potential.
+3. Salubridade: Uma mente doentia cria um design ineficiente. Um corpo insalubre constrói um produto defeituoso. Siga a “alimentação correta”, “comportamento correto” e “pensamento correto” para maximizar seu potencial.
 
-Please keep these principles in mind as you contribute to our efforts.
+Por favor, mantenha esses princípios em mente ao contribuir com nossos esforços.
 
 王永红
 Wang Yonghong, CEO
 
-深圳龙腾科技有限公司
+深圳 龙腾 科技 有限公司
 Shenzhen Longteng Electronics Co. Ltd.
 
 ----------- 
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Ah, fresh meat…
+Ah, carne fresca ...
 
-Just kidding. Welcome to southern China! It’s alright, I suppose… except for the heat, smog and lack of decent cheese here in Shenzhen. Still far better than any engineering gig I can find back home in the UK, though. I’m assuming you ended up here for similar reasons?
+Só brincando. Bem-vindo ao sul da China! Está tudo bem, suponho ... exceto pelo calor, poluição e falta de queijo decente aqui em Shenzhen. Ainda muito melhor do que qualquer show de engenharia que eu possa encontrar em casa no Reino Unido, no entanto. Eu estou supondo que você acabou aqui por razões semelhantes?
 
 Carl
 
@@ -37,39 +37,41 @@ Carl
 
 From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
 
-Yooooooo. So I heard you’re our newest ace engineer who’s going to kick ass and take names, am I right? You’ve probably heard all about me already, but I’m the product guy who loves to find amazing opportunities and make deals happen! LET’S DO THIS!!
+Yooooooo Então eu ouvi que você é o nosso mais novo engenheiro que vai chutar o traseiro e pegar nomes, estou certo? Você provavelmente já ouviu falar de mim, mas eu sou o cara do produto que adora encontrar oportunidades incríveis e fazer negócios acontecerem! VAMOS FAZER ISSO!!
 
 Joe Haitao
-Product Manager
+Gerente de Produto
 
 ----------- 
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-Greetings and welcome to the team. As you’ve already been made aware, we are on a major international expansion effort and we are very eager to see you bring your skills and expertise to our company.
+
+Saudações e bem vindos à equipe. Como você já sabe, estamos em um grande esforço de expansão internacional e estamos muito ansiosos para ver você trazer suas habilidades e conhecimento para nossa empresa.
 
 Lili Wu
-Vice President of Product
+Vice-Presidente de Produto
 Longteng Co. LTD
 
 ----------- 
 
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-你好! My name is David, or “戴维” in Chinese, and I was brought on to help Longteng with its international push. Though I’ve only recently moved here from San Francisco (where, I should point out, there is a very vibrant Chinatown), I am really loving it so far. It is truly fascinating to see a culture at once so ancient and so modern from up close!
+你好! Meu nome é David, ou “戴维” em chinês, e fui contratado para ajudar Longteng com seu esforço internacional. Embora eu tenha me mudado recentemente de San Francisco (onde, devo salientar, há uma Chinatown muito vibrante), estou amando isso até agora. É realmente fascinante ver uma cultura ao mesmo tempo tão antiga e tão moderna de perto!
 
-I am sure we will be working closely together to create many successful products. 很高兴认识你!
+Tenho certeza de que estaremos trabalhando juntos para criar muitos produtos de sucesso.很 高兴 认识 你!
 
 David 戴维 P. Solomon
-International Product Manager
-Shenzhen Longteng Electronics Co., Ltd.
+Gerente Internacional de Produto
+Eletrônica Co. de Shenzhen Longteng, Ltd.
 
 ----------- 
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Hello. My name is Jie Zhang. I am the chief staff engineer (your boss). I have not managed many foreign workers before, so please understand if I make a mistake here or there.
 
-Anyhow, I will send your first job shortly.
+Olá. Meu nome é Jie Zhang. Eu sou o engenheiro chefe da equipe (seu chefe). Eu não gerenciei muitos trabalhadores estrangeiros antes, então, por favor, entenda se eu cometer um erro aqui ou ali.
 
-Jie.
+De qualquer forma, enviarei seu primeiro emprego em breve.
+
+Jie

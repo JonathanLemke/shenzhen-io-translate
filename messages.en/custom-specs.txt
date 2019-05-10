@@ -1,46 +1,46 @@
-﻿Subject: Custom specifications
+﻿Subject: Especificações personalizadas
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Ever wonder where the specs you test against come from? Well, we use a little program called conceptSPEC to generate them.
+Você já se perguntou de onde vêm as especificações que você testa? Bem, usamos um pequeno programa chamado conceptSPEC para gerá-los.
 
-I figure you're ready to create your own specs if you want, so I put a link on your desktop.
+Eu acho que você está pronto para criar suas próprias especificações, se quiser, então eu coloco um link na sua área de trabalho.
 
-conceptSPEC isn't exactly the most elegant program, but it'll do. Since, you know, there's no choice.
+conceptSPEC não é exatamente o programa mais elegante, mas serve. Desde, você sabe, não há escolha.
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Just remember that good specifications result in good designs. Poor specifications result in poor designs.
+Basta lembrar que boas especificações resultam em bons projetos. Especificações fracas resultam em projetos ruins.
 
-Jie.
+Jie
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Um, I've seen PLENTY of good specifications resulting in poor designs...
+Hum, eu já vi muitas boas especificações, resultando em projetos ruins ...
 
 ----------- (Workshop)
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Good work creating a specification.
+Bom trabalho criando uma especificação.
 
-Maybe one day, you will take my job.
+Talvez um dia você aceite meu trabalho.
 
-Jie.
+Jie
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-You will never retire, J. I won't allow it.
+Você nunca vai se aposentar, J. Eu não vou permitir isso.
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-I have been doing this for almost forty years. So, maybe after another forty years, I will get tired.
+Eu faço isso há quase quarenta anos. Então, talvez depois de mais quarenta anos, eu me cansei.
 
-Jie.
+Jie

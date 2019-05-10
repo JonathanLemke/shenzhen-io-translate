@@ -1,37 +1,36 @@
-Subject: Handheld timer
+﻿Subject: Temporizador de mão
 From: Lisa Suemura <l.suemura@bio.avalon>
 CC: L. Braud <l.braud@elec.avalon>
 
-So this is going to be a funny thing to ask for with all our advanced technology here, but something we could really use is a dedicated handheld timer.
+Então, isso vai ser uma coisa engraçada para pedir com toda a nossa tecnologia avançada aqui, mas algo que realmente podemos usar é um temporizador de mão dedicado.
 
-We’ve begun developing recipes for every conceivable kind of food in the cleanrooms, and one critical thing is to understand exactly how long certain reactions take. Unfortunately, earlier today I saw Derrick using his phone to do that, and... let’s just say I had to put a stop to that as quickly as possible. Phones are absolutely not sterile. They are the opposite of sterile.
+Começamos a desenvolver receitas para todos os tipos de alimentos concebíveis nas salas limpas, e uma coisa importante é entender exatamente quanto tempo certas reações levam. Infelizmente, hoje cedo eu vi o Derrick usando o telefone dele para fazer isso, e ... digamos que eu tive que parar com isso o mais rápido possível. Os telefones não são absolutamente estéreis. Eles são o oposto de estéril.
 
 Lisa Suemura, PhD, FRSB
-Director, Ocean’s Bounty Program
+Diretor do Programa Bounty do Ocean
 Avalon City
 
 -----------
 
 From: Derrick Paul <d.paul@mech.avalon>
 
-Haha, sorry about that. I never realized how dirty a phone could be, but now that I think about it... yeah.
+Haha, desculpe por isso. Eu nunca percebi o quão sujo um telefone poderia ser, mas agora que eu penso sobre isso ... sim.
 
-Well, the timer is nothing fancy, just something all the technicians can use to keep track of how long things ought to take, wrapped in a hardened case we can throw in an autoclave.
+Bem, o cronômetro não é nada chique, apenas algo que todos os técnicos podem usar para acompanhar quanto tempo as coisas devem levar, embrulhadas em um estojo rígido que podemos colocar em uma autoclave.
 
 ----------- (Completion)
 
 From: Derrick Paul <d.paul@mech.avalon>
 
-Thanks, you’re a lifesaver. I never thought I would live it down, using my phone in a cleanroom like that...
+Obrigado, você é um salva-vidas. Eu nunca pensei que iria viver isso, usando meu telefone em uma sala limpa assim ...
 
 -----------
 
 From: Lisa Suemura <l.suemura@bio.avalon>
 
-We all make mistakes, Derrick. Just remember it for next time and you won’t have to see Lisa become Angry Lisa ever again.
-
+Nós todos cometemos erros, Derrick. Apenas lembre-se disso da próxima vez e você não terá que ver Lisa ficar com raiva de Lisa novamente.
 -----------
 
 From: Derrick Paul <d.paul@mech.avalon>
 
-I will definitely remember!
+Eu definitivamente vou lembrar!

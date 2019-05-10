@@ -1,9 +1,9 @@
-Subject: Aquaponics maintenance robot
+﻿Subject: Robô de manutenção de aquaponia
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-Surely many of you have heard of Sun Haotian (孙昊天). His father was one of the first electronics entrepreneurs from this area, starting from when it was first designated a Special Economic Zone. Now that he’s inherited the family business, it would be no exaggeration to say he’s the most powerful man in Shenzhen today.
+Certamente muitos de vocês já ouviram falar de Sun Haotian (孙 昊天). Seu pai foi um dos primeiros empreendedores de eletrônicos da área, a partir de quando foi designada pela primeira vez uma Zona Econômica Especial. Agora que ele herdou os negócios da família, não seria exagero dizer que hoje ele é o homem mais poderoso de Shenzhen.
 
-An opportunity has arisen to work with his conglomerate on a device that moves between stations in a line. Apparently, it’s intended to service an automated aquaponics facility. It’s a small start, but understand that our relationship with him is absolute top priority. If he feels he can trust us, we’ll continue to get bigger and better work from him.
+Surgiu uma oportunidade de trabalhar com seu conglomerado em um dispositivo que se move entre as estações em uma linha. Aparentemente, destina-se a atender uma instalação de aquaponia automatizada. É um começo pequeno, mas entenda que nosso relacionamento com ele é prioridade máxima absoluta. Se ele sentir que pode confiar em nós, continuaremos a crescer e a trabalhar melhor com ele.
 
 Lili Wu
 
@@ -11,22 +11,22 @@ Lili Wu
 
 From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
 
-What’s an aquaponics?
+O que é uma aquaponia?
 
 -----------
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-A system for growing food that combines aquaculture and hydroponics. Look it up.
+Um sistema para cultivo de alimentos que combina aqüicultura e hidroponia. Procure.
 
-This robot probably cleans or adds nutrients to the system as needed.
+Este robô provavelmente limpa ou adiciona nutrientes ao sistema, conforme necessário.
 
 ----------- (Completion)
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-I’ve received word that Mr. Sun was happy with the result of our work here. 
+Recebi a notícia de que o Sr. Sun estava feliz com o resultado do nosso trabalho aqui.
 
-Clearly it’s part of a much larger project, but nobody I speak to will say anything more.
+Claramente faz parte de um projeto muito maior, mas ninguém com quem falo dirá mais nada.
 
 Lili Wu
