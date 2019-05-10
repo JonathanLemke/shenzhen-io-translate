@@ -1,32 +1,32 @@
-﻿Subject: Virtual reality buzzer
+﻿Subject: Buzzer de realidade virtual
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-Hi all,
+Olá a todos,
 
-Apologies for the personal side here, but I’ve met this wonderful girl named Xiaomei (小美) and, well, to make a long story short, she’s set to move in with me next month! There’s just one small issue, and it’s something I thought maybe we could create a product to help with. See, when I’m doing my VR sessions, it’s easy for someone to sneak up on me because I can’t see or hear them. Awkward, to say the least! This inspired me to think up a product: A simple vibrating buzzer that attaches to a VR headset so it can be felt even during the most intense sequences. Connecting that to a radio controller, I could place the button outside of my study and Xiaomei could buzz me when she needs me, with no chance of me being caught by surprise. What do you think? I’m sure plenty of other VR enthusiasts might find themselves in a similar predicament, and this is a solution inexpensive enough to be an impulse buy.
+Desculpas pelo lado pessoal aqui, mas eu conheci uma garota maravilhosa chamada Xiaomei (小 美) e, bem, para encurtar a história, ela está pronta para morar comigo no mês que vem! Há apenas um pequeno problema, e é algo que pensei que talvez pudéssemos criar um produto para ajudar. Veja, quando estou fazendo minhas sessões de RV, é fácil para alguém se aproximar de mim porque não posso vê-las ou ouvi-las. Estranho, para dizer o mínimo! Isso me inspirou a pensar em um produto: uma simples campainha vibratória que se liga a um fone de ouvido de realidade virtual para que ele possa ser sentido mesmo durante as sequências mais intensas. Conectando isso a um rádio controlador, eu poderia colocar o botão fora do meu escritório e Xiaomei poderia me chamar quando ela precisasse de mim, sem chance de eu ser pego de surpresa. O que você acha? Tenho certeza de que muitos outros entusiastas de RV podem se encontrar em uma situação semelhante, e essa é uma solução barata o suficiente para ser uma compra por impulso.
 
 -----------
 
 From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
 
-Congrats David!!
+Parabéns David !!
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Note about the radio chip you will be using.
+Nota sobre o chip de rádio que você estará usando.
 
-Normally, reading XBus causes the microcontroller to block until data becomes available. 
+Normalmente, a leitura do XBus faz com que o microcontrolador bloqueie até que os dados se tornem disponíveis.
 
-However, this radio has a non-blocking XBus buffer. The non-blocking buffer will immediately return a value of -999 when no data is currently available.
+No entanto, esse rádio tem um buffer XBus sem bloqueio. O buffer não bloqueador retornará imediatamente um valor de -999 quando nenhum dado estiver disponível no momento.
 
-Should make it easier.
+Deve tornar isso mais fácil.
 
-Jie.
+Jie
 
 ----------- (Completion)
 
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-Wonderful. This is exactly as I had imagined it. 谢谢!
+Maravilhoso. Isso é exatamente como eu imaginava.谢谢!

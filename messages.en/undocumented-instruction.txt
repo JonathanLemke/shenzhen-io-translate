@@ -1,53 +1,53 @@
-Subject: Undocumented instruction!
+﻿Subject: Instrução não documentada!
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-So, I was chatting with a mate at the pub and it comes to light those Chengshang Micro microcontrollers we use everywhere have a secret instruction that isn’t in any of the documentation. 
+Então, eu estava conversando com um colega no pub e vem a luz que os microcontroladores da Chengshang Micro que usamos em todo lugar têm uma instrução secreta que não está em nenhuma das documentações.
 
-Takes the format of:
+Toma o formato de:
 
-gen P R/I R/I
+gen P R / I R / I
 
-...and it conveniently generates a pulse on any simple I/O pin! The signal switches on (100) then off (0) for however many time units you want using the last two operands.
+... e convenientemente gera um pulso em qualquer pino de E / S simples! O sinal é ligado (100) e depois desligado (0) para quantas unidades de tempo você quiser usando os dois últimos operandos.
 
 gen P X Y
 
-is equivalent to:
+é equivalente a:
 
 mov 100 P
 slp X
 mov 0 P
 slp Y
 
-Bloody hell. I could have been using this all along and saved so many instructions!
+Puta merda. Eu poderia ter usado isso o tempo todo e salvo tantas instruções!
 
-J, did you know about this?
-
------------
-
-From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
-
-Yes. Actually, it is in the documentation… the Chinese version. Just like the @ conditional.
-
-Jie.
-
------------
-
-From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
-
-THE WHAT>
+J, você sabia disso?
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Seems like many instructions are not translated yet. 
+Sim. Na verdade, está na documentação… a versão chinesa. Apenas como o @ condicional.
 
-Putting an @ symbol at the beginning of an instruction causes it to execute only once. How have you been initializing code?
-
-Jie.
+Jie
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Yeah okay I see how it is.
+O QUÊ>
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Parece que muitas instruções ainda não foram traduzidas.
+
+Colocar um símbolo @ no início de uma instrução faz com que seja executado apenas uma vez. Como você está inicializando o código?
+
+Jie
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Sim, bem, vejo como é.

@@ -1,69 +1,69 @@
-﻿Subject: The final step
+﻿Subject: O passo final
 From: 孙昊天 <sun@avalon.avalon>
 
-First of all, I would like to thank the NETHUNS team for its remarkable efforts. We have reached the culminating moment for the project, and I am about to initiate the final step.
+Em primeiro lugar, gostaria de agradecer à equipe do NETHUNS por seus notáveis ​​esforços. Chegamos ao momento culminante do projeto e estamos prestes a dar o passo final.
 
-Before I do, I want to address the concerns some of you have brought to me privately. Progress, especially the radical kind we are making here, can indeed be dangerous. There’s a reason I had to start my own country to get this far: No existing government would allow such an experiment on their soil. That said, I think the case for optimism here couldn’t be stronger. This team has achieved so much already and there is no reason to doubt the science.
+Antes de fazê-lo, quero abordar as preocupações que alguns de vocês me trouxeram em particular. O progresso, especialmente o tipo radical que estamos fazendo aqui, pode de fato ser perigoso. Há uma razão pela qual eu tive que começar meu próprio país para chegar até aqui: nenhum governo existente permitiria tal experiência em seu solo. Dito isso, acho que o argumento do otimismo aqui não poderia ser mais forte. Esta equipe já conseguiu muito e não há razão para duvidar da ciência.
 
-While the NETHUNS neural computing apparatus suspended in the water below the city will become the new home of my consciousness, I do not expect things to change much at first. After all, we are beginning with an exact replica of my brain structure. I will continue to run things as I always have, with a steady hand and an open-minded eye towards scientific development and discovery.
+Enquanto o aparato de computação neural NETHUNS suspenso na água abaixo da cidade se tornará o novo lar da minha consciência, eu não espero que as coisas mudem muito no início. Afinal, estamos começando com uma réplica exata da minha estrutura cerebral. Continuarei a dirigir as coisas como sempre fiz, com uma mão firme e um olhar de mente aberta para o desenvolvimento e a descoberta científica.
 
-The longer term, of course, is more difficult to predict. I expect work on NETHUNS to continue even after I am uploaded to it, both to add to our knowledge and to add capacity. From there, we will determine the next steps together.
+A longo prazo, é claro, é mais difícil de prever. Espero que o trabalho no NETHUNS continue mesmo depois de eu ter sido enviado para ele, tanto para aumentar o nosso conhecimento como para adicionar capacidade. De lá, vamos determinar os próximos passos juntos.
 
-I would like each of you to sign off below to indicate you believe your section is ready and prepared to begin the upload.
+Eu gostaria que cada um de vocês assinasse abaixo para indicar que você acredita que sua seção está pronta e preparada para começar o upload.
 
 Sun Haotian
-President, Avalon City
+Presidente, Avalon City
 
 ----------- (Signoff)
 
 From: Enzo Capretti <e.capretti@avalon.avalon>
 Delay: 5
 
-NETHUNS has been initiated...
+NETHUNS foi iniciado ...
 
 -----------
 
 From: Kamran Farzan <k.farzan@neuro.avalon>
 Delay: 5
 
-Upload is complete.
+Upload está completo.
 
 -----------
 
 From: Kamran Farzan <k.farzan@neuro.avalon>
 Delay: 3
 
-Processors are running hot, very close to 100%. Have we heard anything?
+Os processadores estão funcionando muito próximos de 100%. Nós ouvimos alguma coisa?
 
 -----------
 
 From: Lisa Suemura <l.suemura@bio.avalon>
 Delay: 5
 
-It’s consuming massive amounts of power and nutrition. The activity is a positive sign, but it’s difficult to tell if the patterns correspond to Sun’s brain.
+Está consumindo quantidades maciças de energia e nutrição. A atividade é um sinal positivo, mas é difícil dizer se os padrões correspondem ao cérebro da Sun.
 
 -----------
 
 From: Irina Kurchatova <i.kurchatova@energy.avalon>
 Delay: 3
 
-It probably needs some time to stabilize.
+Provavelmente precisa de algum tempo para se estabilizar.
 
 ----------- 
 
 From: Kamran Farzan <k.farzan@neuro.avalon>
 Delay: 10
 
-Usage is not leveling off at all, still near full capacity. Irina’s probably right... Sun needs to learn to think again using all of his new systems. Unfortunately, there’s no saying how long this adjustment process might take.
+O uso não está nivelando, ainda perto da capacidade total. Irina provavelmente está certa ... Sun precisa aprender a pensar novamente usando todos os seus novos sistemas. Infelizmente, não há como dizer quanto tempo esse processo de ajuste pode demorar.
 
-Need to figure out a way to measure this.
+Precisa descobrir uma maneira de medir isso.
 
------------ 
+-----------
 
-From: Enzo Capretti <e.capretti@avalon.avalon>
+De: Enzo Capretti <e.capretti@avalon.avalon>
 
-I’m sure we’ll hear something in due time. For now, I am officially closing the NETHUNS project. Kamran will continue to monitor Sun’s brain; the rest of you should move onto something else after taking a short break. Feel free to pursue whatever is interesting to you.
+Tenho certeza de que vamos ouvir algo no devido tempo. Por enquanto, estou fechando oficialmente o projeto NETHUNS. Kamran continuará monitorando o cérebro de Sun; o resto de vocês deve passar para outra coisa depois de uma pequena pausa. Sinta-se livre para buscar o que for interessante para você.
 
-If Sun’s absence is prolonged, citizen-employees may ask you if you know anything about what happened to him. I can take care of all messaging around this situation, so refer them to me if you wish. Alternately, you may let them know that Sun is not gone, just sleeping, and he is waiting to awaken again when he is ready.
+Se a ausência da Sun for prolongada, os funcionários-cidadãos podem perguntar se você sabe alguma coisa sobre o que aconteceu com ele. Eu posso cuidar de todas as mensagens em torno desta situação, então encaminhá-los para mim, se desejar. Alternadamente, você pode deixá-los saber que o sol não se foi, apenas dormindo, e ele está esperando para despertar novamente quando estiver pronto.
 
-That is all, and once again, thank you.
+Isso é tudo e, mais uma vez, obrigado.

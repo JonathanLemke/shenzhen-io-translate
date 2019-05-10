@@ -1,9 +1,9 @@
-﻿Subject: Security nightmare
+﻿Subject: Pesadelo de segurança
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Remember SleepCUBES, the capsule hotel company we did the little game console for? They’re back, this time asking for a lock that’s based off the national ID card. Loads of privacy concerns here, not to mention the fact that a trivially cloneable master key opens any lock (!!!), but, a job’s a job as they say. 
+Lembre-se SleepCUBES, a empresa de hotelaria cápsula que fizemos o pequeno console de jogos para? Eles voltaram, desta vez pedindo um bloqueio baseado no cartão de identidade nacional. Muita preocupação com a privacidade aqui, sem mencionar o fato de que uma chave mestra clonável trivialmente abre qualquer bloqueio (!!!), mas, um trabalho é um trabalho, como eles dizem.
 
-At least I think that’s what they say.
+Pelo menos eu acho que é o que eles dizem.
 
 Carl
 
@@ -11,30 +11,30 @@ Carl
 
 From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
 
-I’ve stayed at SleepCUBE a few times. They’re not too shabby!
+Eu fiquei no SleepCUBE algumas vezes. Eles não são muito ruins!
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Get thrown out of a club or something?
+Será jogado fora de um clube ou algo assim?
 
 -----------
 
 From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
 
-I was researching our customer! Actually using the product or service is a great way to familiarize yourself with a company... it’s a natural part of any healthy corporate partnership!
+Eu estava pesquisando nosso cliente! Na verdade, usar o produto ou serviço é uma ótima maneira de se familiarizar com uma empresa ... é uma parte natural de qualquer parceria corporativa saudável!
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Heh. You’ve really changed, Joe.
+Heh Você realmente mudou, Joe.
 
 ----------- (Completion)
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-This is the least secure security solution I’ve ever seen. And I’ve worked on voting machines!
+Esta é a solução de segurança menos segura que já vi. E eu trabalhei em máquinas de votação!
 
-If you ever stay in a SleepCUBES, bring your own lock.
+Se você ficar em um SleepCUBES, traga seu próprio cadeado.

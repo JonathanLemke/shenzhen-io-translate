@@ -1,50 +1,50 @@
-Subject: Pocket I Ching oracle
+﻿Subject: Bolso I Ching oráculo
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-Have you noticed the 易經 (I Ching, sometimes known in the West as “The Book of Changes”), experiencing a resurgence in popularity lately? For the benefit of those out of the loop, let me briefly explain: A hexagram is a set of six lines where each line is either solid or broken, with a total of 64 possible combinations. There is obviously much more to it but I don’t want to go into it too deeply!
+Você já notou o 易經 (I Ching, às vezes conhecido no Ocidente como “O Livro das Mutações”), experimentando um ressurgimento da popularidade ultimamente? Para o benefício daqueles fora do loop, deixe-me explicar brevemente: Um hexagrama é um conjunto de seis linhas onde cada linha é sólida ou quebrada, com um total de 64 combinações possíveis. Há obviamente muito mais, mas eu não quero entrar muito profundamente!
 
-I’ve been studying the system for a while now, but I wish there was a quicker way to generate hexagrams. I thought perhaps this ancient divination method be brought into the modern era somehow as a pocket device.
+Eu tenho estudado o sistema por um tempo agora, mas eu gostaria que houvesse uma maneira mais rápida de gerar hexagramas. Eu pensei que talvez esse antigo método de adivinhação fosse trazido para a era moderna de alguma forma como um dispositivo de bolso.
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Six coin flips, is it then?
+Seis lançamentos de moeda, é então?
 
 -----------
 
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-Not at all. There is a much more detailed process through which one arrives at the reading involving yarrow stalks. I stopped by to try to describe it to you but you weren’t at your desk… Suffice it to say that we will need to generate the readings in the *proper* way if it is to be taken seriously as a divination tool!
+De modo nenhum. Há um processo muito mais detalhado através do qual se chega à leitura envolvendo hastes de Yarrow. Eu parei para tentar descrevê-lo para você, mas você não estava na sua mesa ... Basta dizer que precisaremos gerar as leituras da maneira correta para ser levado a sério como uma ferramenta de adivinhação!
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-I found a part that works for this. It implements the physical yarrow stalk method in miniature (MEMS). Strange.
+Eu encontrei uma parte que funciona para isso. Ele implementa o método do pedúnculo físico em miniatura (MEMS). Estranho.
 
-So, we can just create the display for the result.
+Então, podemos apenas criar a exibição para o resultado.
 
-Obviously, interpretation is up to the user…
+Obviamente, a interpretação depende do usuário ...
 
-Jie.
+Jie
 
 ----------- (Completion)
 
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-Splendid! How wonderful that such a device was created right here in China, where it all began! I’ll probably even use this oracle myself as Xiaomei and I approach our wedding day. :)
+Esplêndido! Quão maravilhoso foi que esse dispositivo foi criado aqui na China, onde tudo começou! Eu provavelmente vou usar esse oráculo como Xiaomei e eu nos aproximamos do nosso casamento. :)
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-David is more Chinese than even a Chinese person.
+David é mais chinês do que uma pessoa chinesa.
 
-Jie.
+Jie
 
 -----------
 
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-Thanks. ;)
+Obrigado. ;)

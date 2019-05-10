@@ -1,42 +1,42 @@
-Subject: Reactor status display 
+﻿Subject: Exibição do status do reator
 From: Irina Kurchatova <i.kurchatova@energy.avalon>
 CC: F. Sánchez Montoro <f.sanchez.montoro@elec.avalon>
 
-As promised, I have a serious job for you :)
+Como prometido, tenho um trabalho sério para você :)
 
-These will be custom displays to report current status of each component for monitoring and control of my thorium reactors.
+Estas serão telas personalizadas para relatar o status atual de cada componente para monitoramento e controle dos meus reatores de tório.
 
-A bit more interesting than cats, maybe?
+Um pouco mais interessante que gatos, talvez?
 
 Irina Kurchatova
-Chief Nuclear Scientist
+Cientista Chefe Nuclear
 Avalon City
 
 ----------- (Completion)
 
 From: 孙昊天 <sun@avalon.avalon>
 
-All,
+Todos,
 
-Several years ago I met a brilliant young scientist who told me the future of energy was in thorium-based nuclear power. I was skeptical, to say the least.
+Vários anos atrás eu conheci um jovem cientista brilhante que me disse que o futuro da energia estava na energia nuclear baseada em tório. Eu estava cético, para dizer o mínimo.
 
-Today I could not be more happy to have been proven wrong, and in so short a time. With Avalon City’s first liquid fluoride thorium reactor coming online today and many more on the way, please join me in giving Dr. Kurchatova a big hand for her stunning achievements.
+Hoje eu não poderia estar mais feliz por ter sido provado errado, e em tão pouco tempo. Com o primeiro reator de fluoreto de flúor líquido da Avalon City chegando hoje e muitos mais a caminho, por favor, junte-se a mim para dar à Dra. Kurchatova uma grande mão por suas realizações impressionantes.
 
 Sun Haotian
-President, Avalon City
+Presidente, Avalon City
 
 ----------- 
 
 From: Lisa Suemura <l.suemura@bio.avalon>
 
-Congratulations Irina!
+Parabéns Irina!
 
 ----------- 
 
 From: Irina Kurchatova <i.kurchatova@energy.avalon>
 
-Soon we will have more energy than we could ever need ;)
+Em breve teremos mais energia do que poderíamos precisar;)
 
 Irina Kurchatova
-Chief Nuclear Scientist
+Cientista Chefe Nuclear
 Avalon City

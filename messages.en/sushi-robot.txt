@@ -1,17 +1,17 @@
-Subject: Sushi robot!
+﻿Subject: Sushi robô!
 From: Derrick Paul <d.paul@mech.avalon>
 CC: K. Haruo <k.haruo@elec.avalon>
 
-Hey, so, want to help me out with a fun little project I’ve been planning for a while? It’s a sushi-making robot I like to call the Omakase 9000. Having tasty sushi clearly wasn’t a priority early on, but now that the Ocean’s Bounty project is finished I figured Avalon City could use a little more high-end dining options. I think I’ve got the mechanical aspects worked out, so all it needs now is your expert logic to make it run!
+Ei, quer me ajudar com um projeto divertido que eu tenho planejado por um tempo? É um robô produtor de sushi que eu gosto de chamar de Omakase 9000. O saboroso sushi claramente não era prioridade no início, mas agora que o projeto Ocean's Bounty acabou, imaginei que o Avalon City poderia usar um pouco mais de opções de restaurantes sofisticados. Acho que resolvi os aspectos mecânicos, então tudo que você precisa agora é de sua lógica especializada para executá-lo!
 
 Derrick
 
-P.S. Don’t tell Lisa about it.
+P.S. Não conte a Lisa sobre isso.
 
 ----------- (Completion)
 
 From: Derrick Paul <d.paul@mech.avalon>
 
-Whew, that went over even better than I expected. Not only was Lisa surprised, she really liked the food too! I’ll never forget how her face lit up when she had the first bite. I’m just glad I made her happy.
+Uau, isso foi melhor ainda do que eu esperava. Não só foi Lisa surpresa, ela realmente gostou da comida também! Eu nunca vou esquecer como o rosto dela se iluminou quando ela deu a primeira mordida. Estou feliz por tê-la feito feliz.
 
-Thanks, I owe ya one!
+Obrigado, eu te devo uma!

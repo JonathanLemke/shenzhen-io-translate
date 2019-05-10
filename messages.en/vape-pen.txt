@@ -1,28 +1,28 @@
-Subject: Cool Dad!!!!!!!!!!!!!
+﻿Subject: Pai legal !!!!!!!!!!!!!
 From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
 
-Hope y’all are sitting down right now because this one is going to be BIG. How big, you ask? Well, you might just be talking to the guy who negotiated a deal to make ALL of the light-up color changing vapes that Cool Dad is going to give away on this year’s global tour!! DANG!! Am I right? This is a HUGE deal for us. Literally MILLIONS of these are going to be given away!
+Espero que vocês estejam sentados agora porque este será BIG. Quão grande, você pergunta? Bem, você pode estar apenas conversando com o cara que negociou um acordo para fazer com que TODAS as cores mudem a cor que o Cool Dad vai dar na turnê mundial deste ano! DANG !! Estou certo? Este é um negócio enorme para nós. Literalmente MILHÕES destes serão dados!
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Looks rather straightforward. We get colour values in, then we control some LEDs to get the shade we want. (I put a bunch of extra LEDs in the prototyping bin too, since those should be fun to play with.)
+Parece bastante simples. Obtemos valores de cor, então controlamos alguns LEDs para obter a tonalidade que queremos. (Eu coloquei um monte de LEDs extras na caixa de protótipos também, já que eles devem ser divertidos de se brincar.)
 
-Little tip for you: See the little triangle at the beginning of an XBus data packet? That’s when *all* of those values in that packet are coming in. It’s not like it’s one per time unit, yea?
+Uma pequena dica para você: Veja o pequeno triângulo no início de um pacote de dados do XBus? É aí que * todos * os valores desse pacote estão chegando. Não é como um por unidade de tempo, sim?
 
-Shame that Cool Dad’s actual “music,” if I can even call it that, sounds like 2008-era dubstep crossed with a Parliamentary debate, if Parliament were populated entirely by screaming macaws. I have no idea why he’s famous.
+É uma vergonha que a “música” do pai legal, se eu posso chamar assim, soa como o dubstep da era de 2008 cruzado com um debate parlamentar, se o Parlamento fosse povoado inteiramente por araras gritando. Eu não tenho ideia do porque ele é famoso.
 
 -----------
 
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-My girlfriend Xiaomei is a fan. Some of it is quite danceable!
+Minha namorada Xiaomei é fã. Algumas delas são bastante dançantes!
 
 ----------- (Completion)
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-Greetings all. With every project we take, there are factors we can control and factors we cannot control. We could *not* control the fact that Cool Dad was arrested and jailed for possession of amphetamines as he attempted to enter Japan, thus canceling the world tour. However, there was something under our control, and that was the terms of the deal. We *could* have negotiated a better contract that would have allowed us some recourse if something like this happened, instead of leaving us on the hook with a hundred thousand useless color-changing light-up vapes for us to dump at basement prices just to get rid of them.
+Saudações a todos. Com cada projeto que tomamos, existem fatores que podemos controlar e fatores que não podemos controlar. Nós não poderíamos * controlar * o fato de que Cool Dad foi preso e preso por posse de anfetaminas quando ele tentou entrar no Japão, cancelando assim a turnê mundial. No entanto, havia algo sob nosso controle, e esses eram os termos do acordo. Nós * poderíamos * ter negociado um contrato melhor que nos teria permitido algum recurso se algo assim acontecesse, em vez de deixar-nos no anzol com cem mil inúteis vapes de mudança de cor inúteis para nós nos basearmos nos preços do porão apenas para livrar-se deles.
 
 Lili Wu

@@ -1,9 +1,9 @@
-Subject: Control router - IMPORTANT
+﻿Subject: Roteador de controle - IMPORTANTE
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-I’m pleased to say we have been selected for another Sun Haotian project, a simple data router for smart grids.
+Tenho o prazer de dizer que fomos selecionados para outro projeto da Sun Haotian, um roteador de dados simples para redes inteligentes.
 
-Mr. Sun was never interested in civic infrastructure before to my knowledge, so I really wonder what he’s planning. I may ask around. My uncle’s had dinner with him once or twice.
+O Sr. Sun nunca se interessou por infraestrutura cívica antes do meu conhecimento, então eu realmente me pergunto o que ele está planejando. Eu posso perguntar por aí. Meu tio jantou com ele uma ou duas vezes.
 
 Lili Wu
 
@@ -11,16 +11,16 @@ Lili Wu
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-We can do it.
+Nós podemos fazer isso.
 
-Note: These XBus inputs are blocking, so we will need to connect all inputs so they can be read at once (simultaneously).
+Nota: Essas entradas do XBus estão bloqueando, portanto, precisaremos conectar todas as entradas para que possam ser lidas de uma vez (simultaneamente).
 
-Jie.
+Jie
 
 ----------- (Completion)
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-This is just the tip of the iceberg. Mr. Sun is apparently pulling in a lot of resources and groups to create various subsystems for something. Nobody knows what it is other than that it’s going to be very big and potentially very lucrative for the firms involved. We’re on a path to further our good relationship with his group and eventually become trusted partners, so let’s continue to do our best work here.
+Esta é apenas a ponta do iceberg. O Sr. Sun aparentemente está reunindo muitos recursos e grupos para criar vários subsistemas para alguma coisa. Ninguém sabe o que é que não vai ser muito grande e potencialmente muito lucrativo para as empresas envolvidas. Estamos no caminho para promover nosso bom relacionamento com o grupo dele e, eventualmente, nos tornar parceiros de confiança. Por isso, vamos continuar fazendo nosso melhor trabalho aqui.
 
 Lili Wu

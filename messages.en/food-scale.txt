@@ -1,21 +1,21 @@
-Subject: Precision food scale
+﻿Subject: Escala de alimentos de precisão
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-Are you aware of the system of 精准饮食 (precise dieting)? This trend, which originated right here in China, has people across the globe measuring down to the milligram what they put in their bodies based on the ancient principles of 陰 (yin) and 陽 (yang). Actually, my fiancé 小美 (Xiaomei) and I have been trying it for the past month or so ourselves. It really boosts our stamina! I believe a portable food scale aimed at the precise dieting community would do quite well.
+Você está ciente do sistema de 饮食 饮食 (dieta precisa)? Esta tendência, que se originou aqui na China, tem pessoas em todo o mundo medindo até o miligrama o que eles colocam em seus corpos com base nos princípios antigos de 陰 (yin) e 陽 (yang). Na verdade, meu noivo X 美 (Xiaomei) e eu temos tentado isso para o mês passado ou então nós mesmos. Isso realmente aumenta nossa resistência! Acredito que uma balança portátil voltada para a comunidade de dietas precisa se sair muito bem.
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Simple. We can include a tare function to zero the display value when power button is pressed.
+Simples. Podemos incluir uma função de tara para zerar o valor de exibição quando o botão liga / desliga é pressionado.
 
-Jie.
+Jie
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-“Stamina”???
+“Energia”???
 
 O\_O
 
@@ -23,10 +23,10 @@ O\_O
 
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-Splendid work. This truly is the essence of 精准饮食 in electronic form and another great example of the confluence of ancient wisdom and modern technology. I am excited not only to introduce this product to the world but also for 小美 and I to use it ourselves. :)
+Esplêndido trabalho. Esta é verdadeiramente a essência de 饮食 饮食 em forma eletrônica e outro grande exemplo da confluência da sabedoria antiga e da tecnologia moderna. Estou animado não só para apresentar este produto ao mundo, mas também para eu e eu usá-lo nós mesmos. :)
 
 -----------
 
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-Whoops! Sorry, I know not everyone here can read characters… 小美 is my girlfriend Xiaomei. :)
+Ops! Desculpe, eu sei que nem todo mundo aqui pode ler personagens ... 美 美 é minha namorada Xiaomei. :)

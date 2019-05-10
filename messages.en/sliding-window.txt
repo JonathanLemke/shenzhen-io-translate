@@ -1,14 +1,14 @@
-Subject: Pollution sensing window
+﻿Subject: Janela de detecção de poluição
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-I am working on a smart window that reacts to particulate matter in the air (pollution). I need a controller that allows us to close the window when the level is too high and opens it again when the level is lower.
+Eu estou trabalhando em uma janela inteligente que reage ao material particulado no ar (poluição). Eu preciso de um controlador que nos permite fechar a janela quando o nível é muito alto e abre novamente quando o nível é menor.
 
-Jie.
+Jie
 
 ----------- (Completion)
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Good. By the way, maybe you noticed that this is a “sliding window algorithm” for a sliding window. Do you think that is funny?
+Boa. By the way, talvez você tenha notado que este é um "algoritmo de janela deslizante" para uma janela deslizante. Você acha isso engraçado?
 
-Jie.
+Jie

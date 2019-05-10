@@ -1,46 +1,46 @@
-Subject: Harvest time!
+﻿Subject: Tempo de colheita!
 From: Lisa Suemura <l.suemura@bio.avalon>
 CC: T. Quinn <t.quinn@elec.avalon>
 
-It’s hard to believe, but our first full-size kelp beds are almost ready for harvesting and processing! Derrick’s been working on the mechanics of the harvester so we’re at a good place now to start designing the control system.
+É difícil acreditar, mas nossas primeiras camas de kelp em tamanho real estão quase prontas para colheita e processamento! Derrick está trabalhando na mecânica da colheitadeira, então estamos em um bom lugar agora para começar a projetar o sistema de controle.
 
-We’re close to the culmination of the Ocean’s Bounty program! Soon we’ll be feeding the entire population of Avalon City with a delicious cornucopia of foods we created entirely on our own. I’m really excited!
+Estamos perto do ponto culminante do programa Ocean's Bounty! Em breve estaremos alimentando toda a população de Avalon City com uma deliciosa cornucópia de alimentos que criamos inteiramente por conta própria. Estou realmente animado!
 
 Lisa Suemura, PhD, FRSB
-Director, Ocean’s Bounty Program
+Diretor do Programa Bounty do Ocean
 Avalon City
 
 ----------- (Completion)
 
 From: 孙昊天 <sun@avalon.avalon>
 
-All,
+Todos,
 
-Please join me in warmly congratulating Dr. Suemura and her team for the success of the Ocean’s Bounty program, which has essentially solved the issue of food production for the entirety of Avalon City.
+Por favor, junte-se a mim para parabenizar Dr. Suemura e sua equipe pelo sucesso do programa Ocean's Bounty, que resolveu essencialmente a questão da produção de alimentos para a totalidade da cidade de Avalon.
 
-Additionally, the technologies developed for this program will make a lasting beneficial impact on all of humanity, so this is a big win not only for our independence, but for the future of the planet as well.
+Além disso, as tecnologias desenvolvidas para este programa terão um impacto benéfico duradouro em toda a humanidade, portanto, esta é uma grande vitória não apenas para a nossa independência, mas também para o futuro do planeta.
 
 Sun Haotian
-President, Avalon City
+Presidente, Avalon City
 
 -----------
 
 From: Derrick Paul <d.paul@mech.avalon>
 
-A message from Sun himself, that’s amazing! Congratulations Lisa!
+Uma mensagem do próprio Sun, isso é incrível! Parabéns Lisa!
 
-So… what’s next after revolutionizing how the world makes food?
+Então, o que vem a seguir depois de revolucionar como o mundo faz comida?
 
 -----------
 
 From: Lisa Suemura <l.suemura@bio.avalon>
 
-Thanks Derrick. It was a group effort, of course!
+Obrigado Derrick. Foi um esforço de grupo, claro!
 
-To be honest I thought about taking some time off, but Enzo is already pulling me onto another project. No rest for me.
+Para ser honesto, pensei em tirar um tempo, mas Enzo já está me colocando em outro projeto. Não há descanso para mim.
 
 -----------
 
 From: Derrick Paul <d.paul@mech.avalon>
 
-Well if you need any robotics, you know where to find me!
+Bem, se você precisar de alguma robótica, sabe onde me encontrar!

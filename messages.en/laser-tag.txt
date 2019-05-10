@@ -1,45 +1,45 @@
-Subject: Tag, you're it
+﻿Subject: Tag, você é
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Please don’t blame me for this.
+Por favor, não me culpe por isso.
 
-I have a friend-- more like an acquaintance, really-- from a while back, many jobs ago. He’s always been a bit of a nutter and I guess what happened was he made a decent bit of cash with an app or something and decided to retire from the programmer’s life and build laser tag arenas for the rest of his days.
+Eu tenho um amigo - mais como um conhecido, realmente - de um tempo atrás, muitos trabalhos atrás. Ele sempre foi um pouco maluco e acho que o que aconteceu foi que ele ganhou um bom dinheiro com um aplicativo ou algo assim e decidiu se aposentar da vida do programador e construir arenas de laser tag pelo resto de seus dias.
 
-That’s not the worst of it. He’s calling his franchise-to-be the AWESOMEPLEX (capitals his).
+Isso não é o pior. Ele está chamando sua franquia-a-ser o AWESOMEPLEX (capitais dele).
 
-In any case, he wanted to see if we could make some scorekeeping wearables for it and I said yes. I’m not entirely sure why. I suppose in the unlikely event his arenas do take off, it’ll look brilliant in hindsight.
+De qualquer forma, ele queria ver se poderíamos criar alguns wearables de pontuação e eu disse que sim. Eu não tenho certeza do porquê. Eu suponho que no evento improvável que suas arenas decolem, vai parecer brilhante em retrospectiva.
 
 -----------
 
 From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
 
-AWESOMEPLEX!!!
+AWESOMEPLEX !!!
 
-When it’s done we should try a match in the office! Laser tag looks like so much fun.
+Quando terminar, devemos tentar uma partida no escritório! A etiqueta laser parece muito divertida.
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-A lot of simple inputs, either on or off. Too many for a microcontroller on its own but a good use for the DX300.
+Muitas entradas simples, ligadas ou desligadas. Muitos para um microcontrolador por si só, mas um bom uso para o DX300.
 
-Jie.
+Jie
 
 ----------- (Completion)
 
 From: 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-Joe, it would be great if you focused on business instead of constantly suggesting distractions.
+Joe, seria ótimo se você se concentrasse nos negócios, em vez de constantemente sugerir distrações.
 
-Also, I would destroy you.
+Além disso, eu destruiria você.
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Just got word from my friend. He’s purchased the building for his first… I can’t bring myself to write it out. His first location. Not sure I want to imagine how much of his retirement he’s put into it.
+Acabei de receber notícias do meu amigo. Ele comprou o prédio para o primeiro ... não consigo escrever. Sua primeira localização. Não tenho certeza se quero imaginar o quanto ele se aposentou.
 
-It’s always nice to have a dream, but sometimes there’s a reason you shouldn’t pursue it, you know?
+É sempre bom ter um sonho, mas às vezes há uma razão pela qual você não deveria persegui-lo, sabe?
 
 -----------
 

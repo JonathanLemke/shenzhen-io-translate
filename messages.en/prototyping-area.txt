@@ -1,58 +1,58 @@
-Subject: Prototyping new ideas
+﻿Subject: Prototipagem de novas ideias
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Sometimes a decent product idea falls out when you’re faffing about with chips and code and the like, so I’ve set up an empty prototype board for us to experiment on. On you go, then!
+Às vezes, uma ideia de produto decente cai quando você está se divertindo com chips, código e coisas do tipo, então eu configurei um protótipo vazio para nós experimentarmos. Então você vai!
 
-Mmm, chips...
+Mmm, batatas fritas ...
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-We can test with some different parts too, such as custom LCD panels.
+Podemos testar com algumas partes diferentes também, como painéis LCD personalizados.
 
-I will add other new parts as we receive them.
+Eu adicionarei outras novas partes conforme as recebemos.
 
-Jie.
+Jie
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Custom LCDs, are you serious? That’s brilliant. We could make retro-style handheld games!
+LCDs personalizados, você está falando sério? Isso é brilhante. Nós poderíamos fazer jogos portáteis estilo retro!
 
-Let’s all take turns designing one.
+Vamos todos nos revezar no projeto de um.
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Carl, come see me. If you have finished all your other assignments, I have more work for you.
+Carl, venha me ver. Se você terminou todas as suas outras tarefas, tenho mais trabalho para você.
 
-Jie.
+Jie
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Who’s this “Carl” fellow you mention? Nobody we know...
+Quem é esse cara "Carl" que você mencionou? Ninguém nós sabemos ...
 
 ----------- (Sandbox)
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Fine work there! Well, I suppose it’s my turn now.
+Bom trabalho lá! Bem, suponho que é a minha vez agora.
 
-Hmm, what should I make a game about?
+Hmm, o que eu deveria fazer um jogo?
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Electrical engineering?
+Engenharia elétrica?
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Hah, haha! That would be a terrible game.
+Ah, haha! Isso seria um jogo terrível.

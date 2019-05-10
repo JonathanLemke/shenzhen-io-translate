@@ -1,9 +1,9 @@
-Subject: Carbine target illuminator
+﻿Subject: Iluminador de alvo carabina
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-We have a deal to create a highly portable infrared targeting device that automatically switches emitter modes based on range. At long range the aiming laser is on; at mid range the aiming laser switches to half power and turns on a 20-degree flood emitter, and at close range it switches completely to a 60-degree flood. I’ve placed a copy of the table on your desk.
+Temos um acordo para criar um dispositivo de segmentação por infravermelho altamente portátil que alterna automaticamente os modos de emissor com base no intervalo. A longa distância, o laser de mira está ligado; na faixa intermediária, o laser de mira alterna para metade da potência e liga um emissor de inundação de 20 graus e, de perto, muda completamente para uma inundação de 60 graus. Eu coloquei uma cópia da mesa na sua mesa.
 
-As a mounted add-on for any type of carbine weapon, it has the potential to do very well across government and law enforcement agencies.
+Como um complemento montado para qualquer tipo de arma de carabina, ele tem o potencial de funcionar muito bem entre as agências governamentais e policiais.
 
 Lili Wu
 
@@ -11,18 +11,18 @@ Lili Wu
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-I’m going to “nope” right out of this one if none of you mind.
+Eu vou "sair" dessa vez se nenhum de vocês se importar.
 
 ----------- (Completion)
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-We did it!! We made some kind of thing that goes on another thing that’s made for killing people and helps them kill people ever better! YAY! GO US!
+Nós fizemos isso!! Fizemos uma coisa que se passa em outra coisa que é feita para matar pessoas e as ajuda a matar as pessoas cada vez melhor! YAY! VAI NOS!
 
 -----------
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-Carl, I understand your concerns, but let’s take this offline.
+Carl, eu entendo suas preocupações, mas vamos deixar isso offline.
 
 Lili Wu

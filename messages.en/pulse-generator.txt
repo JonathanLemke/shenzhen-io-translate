@@ -1,22 +1,22 @@
-Subject: Pulse generator
+﻿Subject: Gerador de pulso
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-In order to test some of our new manufacturing equipment, we need a pulse generator with certain requirements (specifications). However, instead of buying one at the market price, I thought we could simply create our own.
+Para testar alguns dos nossos novos equipamentos de fabricação, precisamos de um gerador de pulsos com certos requisitos (especificações). No entanto, em vez de comprar um a preço de mercado, achei que poderíamos simplesmente criar o nosso.
 
-Jie.
+Jie
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-For this project you will need to make use of *conditional execution*. Please continue your study of the language reference.
+Para este projeto, você precisará fazer uso da * execução condicional *. Por favor, continue seu estudo da referência de idioma.
 
-Jie.
+Jie
 
 ----------- (Completion)
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Yes, looks OK. Suitable for our purpose.
+Sim, parece bem. Adequado para o nosso propósito.
 
-Jie.
+Jie

@@ -1,12 +1,12 @@
-﻿Subject: Little help?
+﻿Subject: Pequena ajuda?
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-I’m wrapping up a project to make a game console and could use some assistance. Before you get too excited, it sounds *far* more fun than it actually is… the “console” is just a tiny super-cheap box we’re making for SleepCUBES, the big Japanese capsule hotel chain, to stick in every pod. The games’ll just be some free dross they find, I’m sure.
+Estou encerrando um projeto para criar um console de jogos e poder usar alguma ajuda. Antes que você fique muito empolgado, parece muito mais divertido do que realmente é… o console é apenas uma pequena caixa super barata que estamos fazendo para a SleepCUBES, a grande cadeia de hotéis de cápsula japonesa, para ficar em todos os lugares. Os jogos serão apenas uma escória livre que eles acham, tenho certeza.
 
-At any rate, I’ve got it mostly done, I just need a module for the little wireless controller that comes with it. I ping you, you tell me what’s going on. Nothing much more than that.
+De qualquer forma, eu tenho isso feito na maior parte, eu só preciso de um módulo para o pequeno controle sem fio que vem com ele. Eu te respondo, você me diz o que está acontecendo. Nada muito mais que isso.
 
 ----------- (Completion)
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Thanks mate, I owe you one. You’ve just helped make thousands of dead-tired salarymen marginally happier. That is, if they actually find the console and use it to play a game before passing out…
+Obrigado, cara, eu te devo uma. Você acabou de ajudar a tornar milhares de assalariados cansados ​​e marginalmente mais felizes. Ou seja, se eles realmente encontrarem o console e usá-lo para jogar um jogo antes de desmaiar…
