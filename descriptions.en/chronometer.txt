@@ -1,10 +1,10 @@
-* *start-stop* and *reset-off* are simple inputs connected to buttons.
-* *display* is an XBus display output corresponding to a numeric LCD screen.
-* The chronometer is initially "off", but can be "turned on" by pressing the *start-stop* button.
-* The chronometer can then be started by pushing the *start-stop* button, at which point the *display* will begin incrementing by 1 for each 2 time units that elapse.
-* The chronometer can then be stopped by pushing the *start-stop* button again.
+* *start-stop* e *reset-off* são entradas simples conectadas a botões.
+* *display* é uma saída de vídeo XBus correspondente a uma tela LCD numerica.
+* O cronometro é inicializado "off/desligado", mas pode ser "Ligado/turned on" precionando o botão *start-stop*.
+* O cronômetro pode então ser iniciado precionando o botão *start-stop*, ponto no qual o *display* começará a incrementar em 1 para cada 2 unidade de tempo que decorrem.
+* O cronômetro pode ser parado pressionando o botão *start-stop* novamente.
 
 ##############
 
-* If the *reset* button is pushed when the chronometer is "on" but not running it will either reset to 0 (if the current count is greater than 0) or turn "off" (if the current count is 0).
-* If the *reset* button is pushed when the chronometer is running it has no effect.
+* Se o botão *reset* for precionando quando o cronômentro estistiver "on/ligado" mas não estiver correndo, ele será redefinido para 0 (se a contagem atual for maior que 0) ou será "off/desligado" (se a contagem atual for 0)
+* Se o botão *reser* for precionando quando o cronômetro estiver correndo, ele não terá efeito.

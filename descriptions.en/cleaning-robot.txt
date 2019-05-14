@@ -1,13 +1,15 @@
-* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
-* *motor* is a simple output connected to a bidirectional motor.
-* *tool-clean* and *tool-feed* are simple outputs connected to unknown tools.
-* The maintenance robot begins in station 0.
-* Pulsing *motor* to 100 and back to 50 will move it to the next station.
-* Pulsing *motor* to 0 and back to 50 will move it to the previous station.
+* *radio-rx* é uma entrada XBus sem bloqueio conectada a um receptor de rádio.
+* *motor* é uma saída simples conectada a um motor bidirecional.
+* *tool-clean* e *tool-feed* são saídas simples conectadas a ferramentas desconhecidas.
+* O robô de manutenção começa na estação 0.
+* Pulsing *motor* para 100 e de volta para 50 irá movê-lo para a próxima estação.
+* Pulsing *motor* para 0 e de volta para 50 irá movê-lo para a estação anterior.
 
 #################
 
-* When a data packet is received over the *radio*, move to the destination station and activate the tools for the specified durations:
+
+* Quando um pacote de dados é recebido através do *radio*, vá para a estação de destino e ative as ferramentas para as durações especificadas:
 
 |    destination   |     *tool-clean*     |     *tool-feed*
 |      station     |   activation time    |   activation time
+
