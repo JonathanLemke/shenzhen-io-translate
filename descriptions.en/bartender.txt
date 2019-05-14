@@ -1,6 +1,6 @@
-* *keypad* is an XBus input connected to a keypad.
-* *vodka*, *gin*, *lemon*, *lime*, *cranberry*, and *vermouth* are simple outputs connected to mechanisms that dispense those ingredients at a rate of 0.5 oz. per time unit.
-* When a value is available from the *keypad*, read it and assemble the corresponding COCKTAIL RECIPE from “The Elegant Bachelor,” which can be found in the “Supplemental Data” section of the manual:
+* *keypad* é uma entrada XBus conectada a um teclado.
+* *vodka*, *gin*, *lemon*, *lime*, *cranberry*, and *vermouth* são simples saidas conectadas ao mecanismo que dispensa os ingredientes a uma taxa de 0.5 oz por unidade de tempo.
+* Quando um valor esta disponível pelo *keypad*, leia e monte a RECEITA DE COQUETEL correpondente ao "Elegante Bachelor" que pode ser encontrado na sessão de "Dados Suplementares" do manual.
 
 ##############
 
