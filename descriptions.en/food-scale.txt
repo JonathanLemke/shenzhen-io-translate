@@ -1,10 +1,10 @@
-* *weight* is a simple input connected to an electromechanical scale calibrated for grams.
-* *button* is a simple input connected to a power / zero button.
-* *display* is an XBus display output corresponding to a numeric LCD screen.
-* The scale is initially "off", but can be "turned on" by pressing the *button*.
-* While the scale is "on", the *display* should be updated with the measured *weight*.
+* *weight* é uma entrada simples conectada a uma balança eletromecânica calibrada para gramas.
+* *button* é uma entrada simples conectada a um botão de energia / zero.
+* *display* é uma saída do monitor XBus correspondente a uma tela LCD numérica.
+* A escala está inicialmente "desligada", mas pode ser "ligada" pressionando o *button*.
+* Enquanto a escala está "on", a *display* deve ser atualizada com o *weight* medido.
 
 ##############
 
-* If the *display* is showing a value other than 0 when the *button* is pushed, the scale should zero itself so that the current displayed *weight* is 0.
-* If the *display* is showing a value of 0 when the *button* is pushed, the scale should "turn off" and clear the *display* by sending it the value -999.
+* Se o *display* estiver exibindo um valor diferente de 0 quando o *button* é pressionado, a escala deve zerar a si mesma de modo que o *weight* atual seja 0.
+* Se o *display* estiver mostrando um valor de 0 quando o *button* for pressionado, a escala deve "turn off" e limpar o *display* enviando-lhe o valor -999.

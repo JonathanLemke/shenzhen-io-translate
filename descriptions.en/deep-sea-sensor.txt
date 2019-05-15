@@ -1,12 +1,12 @@
-* *sonar* is a simple input connected to a passive sonar sensor.
-* *magnetic* is a simple input connected to a magnetic anomaly detector.
-* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
-* *radio-tx* is an XBus output connected to a radio transmitter.
-* When a data packet is received over the *radio* that specifies the ID number of this sensor assembly, respond with the 6 most recent sensor readings (including the current) from the requested sensor in order from oldest to most recent:
+* *sonar* é uma entrada simples conectada a um sensor de sonar passivo.
+* *magnetic* é uma entrada simples conectada a um detector de anomalia magnética.
+* *radio-rx* é uma entrada XBus sem bloqueio conectada a um receptor de rádio.
+* *radio-tx* é uma saída do XBus conectada a um transmissor de rádio.
+* Quando um pacote de dados é recebido através do * radio * que especifica o número de identificação deste conjunto do sensor, responda com as 6 leituras mais recentes do sensor (incluindo a corrente) do sensor solicitado, da mais antiga para a mais recente:
 
 ##############
 
-|   ID number of    |   1 = passive *sonar* sensor
-|  sensor assembly  |   2 = *magnetic* anomaly detector
+| Número de ID          | 1 = sensor passivo *sonar*
+| montagem de sensores 	| 2 = detector de anomalia *magnetic*
 
-* The ID number of the sensor assembly is stored in a secure identity chip that can be read as an XBus input.
+* O número de identificação do conjunto do sensor é armazenado em um chip de identidade seguro que pode ser lido como uma entrada XBus.

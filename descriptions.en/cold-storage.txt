@@ -1,9 +1,12 @@
-* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
-* *motor* is a simple output connected to a bidirectional motor.
-* *extend* and *grab* are simple outputs connected to a robotic arm.
-* When a data packet that begins with the value 1 is received over the *radio*, pick up the container on the loading pad and move it to the first available storage bay. Then return the robotic arm to the loading pad. The second value in the data packet is the container's ID number, and will be used to retrieve it.
+* *sonar* é uma entrada simples conectada a um sensor de sonar passivo.
+* *magnetic* é uma entrada simples conectada a um detector de anomalia magnética.
+* *radio-rx* é uma entrada XBus sem bloqueio conectada a um receptor de rádio.
+* *radio-tx* é uma saída do XBus conectada a um transmissor de rádio.
+* Quando um pacote de dados é recebido através do * radio * que especifica o número de identificação deste conjunto do sensor, responda com as 6 leituras mais recentes do sensor (incluindo a corrente) do sensor solicitado, da mais antiga para a mais recente:
 
-#################
+##############
 
-* When a data packet that begins with the value 2 is received over the *radio*, retrieve the container with the same ID number as the second value in the data packet and move the container to the loading pad.
-* Consult the verification tab for information about *motor*, *extend*, and *grab* timing.
+|   ID number of    |   1 = passive *sonar* sensor
+|  sensor assembly  |   2 = *magnetic* anomaly detector
+
+* O número de identificação do conjunto do sensor é armazenado em um chip de identidade seguro que pode ser lido como uma entrada XBus.
