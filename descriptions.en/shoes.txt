@@ -1,10 +1,10 @@
-* *button* is a simple input connected to a button.
-* *sensor* is a simple input connected to a color sensor.
-* *ink-k* and *ink-n* are simple outputs connected to pieces of fabric coated with color-changing electrochemical dye.
-* While the *button* is held, values from the color *sensor* should be read and bucketed according to the COLOUR CLASSIFICATION CHART.
+* *button* é uma entrada simples conectada a um botão.
+* *sensor* é uma entrada simples conectada a um sensor de cor.
+* *ink-k* e *ink-n* são saídas simples conectadas a peças de tecido revestidas com corantes eletroquímicos que mudam de cor.
+* Enquanto o *button* estiver pressionado, os valores do *sensor* de cor devem ser lidos e divididos de acordo com a TABELA DE CLASSIFICAÇÃO DE CORES.
 
 ##############
 
-* When the *button* is released, *ink-k* and *ink-n* should be set to the values corresponding to the color that most frequently occurred during the calibration period as indicated in the SMART DYE COLOR SPACE. (There will never be a tie).
-* Prior to calibration, *ink-k* and *ink-n* should each be initialized to a value of 50, corresponding to a neutral color.
-* Look in the “Supplemental Data” section of the manual to find the WAVELENGTH-BASED COLOUR CLASSIFICATION chart and the INK SMARTDYE COLOUR SPACE.
+* Quando o *button* é liberado, *ink-k* e *ink-n* devem ser definidos para os valores correspondentes à cor que ocorreu com mais frequência durante o período de calibração, conforme indicado no SMART DYE COLOR SPACE. (Nunca haverá um empate).
+* Antes da calibração, *ink-k* e *ink-n* devem ser inicializados para um valor de 50, correspondendo a uma cor neutra.
+* Consulte a seção "Dados Suplementares" do manual para encontrar a tabela de CLASSIFICAÇÃO DE CORES BASEADA EM WAVELENGTH e o ESPAÇO DE COR DE TINTA SMARTDYE.

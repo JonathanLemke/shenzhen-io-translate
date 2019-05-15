@@ -1,15 +1,15 @@
-* *meter-in* and *meter-out* are XBus inputs and outputs that connect this node to a building’s “smart grid” power meter.
-* *lower-in* and *lower-out* are XBus inputs and outputs that connect this node to a node with a lower ID number.
-* *higher-in* and *higher-out* are XBus inputs and outputs that connect this node to a node with a higher ID number.
-* The first value in a data packet is the ID number of the destination, and indicates how the packet should be handled:
+* *meter-in* e *meter-out* são entradas e saídas do XBus que conectam este nó ao medidor de energia “smart grid” de um edifício.
+* *lower-in* e *lower-out* são entradas e saídas do XBus que conectam este nó a um nó com um número de identificação mais baixo.
+* *higher-in* e *higher-out* são entradas e saídas do XBus que conectam este nó a um nó com um número de ID mais alto.
+* O primeiro valor em um pacote de dados é o número de ID do destino e indica como o pacote deve ser tratado:
 
 ##############
 
-|   ID < meter ID   | retransmit data packet to the lower node
----------------------------------------------------------------
-|   ID = meter ID   | retransmit data packet to the meter
----------------------------------------------------------------
-|   ID > meter ID   | retransmit data packet to the higher node
+| ID < ID do medidor  | retransmitir pacote de dados para o nó inferior
+-------------------------------------------------- -------------
+| ID = ID do medidor  | retransmitir pacote de dados para o medidor
+-------------------------------------------------- -------------
+| ID > ID do medidor  | retransmitir pacote de dados para o nó superior
 
-* The local ID number of the node is stored in a secure identity chip that can be read as an XBus input.
-* The second value in a data packet is the length of the rest of the data packet.
+* O número de identificação local do nó é armazenado em um chip de identidade seguro que pode ser lido como uma entrada do XBus.
+* O segundo valor em um pacote de dados é o tamanho do resto do pacote de dados.
