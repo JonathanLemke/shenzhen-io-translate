@@ -1,13 +1,13 @@
-* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
-* *motor-x* and *motor-y* are simple outputs connected to an omnidirectional motor.
-* *harvest* is a simple output connected to a kelp harvesting apparatus.
-* The harvester begins at grid location (0, 0).
-* Locations to harvest are received over the *radio* as (X, Y) coordinates.
-* If at least one unharvested location remains, move toward the *oldest* location, activating the *harvest* signal when the harvester is over *any* location.
+* *radio-rx* é uma entrada XBus sem bloqueio conectada a um receptor de rádio.
+* *motor-x* e *motor-y* são saídas simples conectadas a um motor omnidirecional.
+* *harvest* é uma saída simples conectada a um aparato de colheita de algas.
+* O harvester começa no local da grade (0, 0).
+* Locais para colheita são recebidos através do *radio* como coordenadas (X, Y).
+* Se pelo menos um local não colhido permanecer, mova-se em direção ao local *oldest*, ativando o sinal *harvest* quando a colheitadeira estiver sobre *any* localização.
 
 ##############
 
-* Setting *motor-x* or *motor-y* to 100 for 1 time unit will move the harvester in the +X or +Y direction, respectively. Setting a *motor* to 50 will cause it to not move in that direction. Setting a *motor* to 0 will move it in the opposite direction.
-* Since the harvester can move in both the X and Y axes simultaneously, diagonal moves should be made whenever possible to take the shortest path.
-* The harvester will never receive a command to harvest its starting location.
-* There will never be more than 6 pending harvest locations.
+* Definir *motor-x* ou *motor-y* como 100 para 1 unidade de tempo moverá a colheitadeira na direção +X ou +Y, respectivamente. Definir um *motor* para 50 fará com que ele não se mova nessa direção. Configurar um *motor* para 0 irá movê-lo na direção oposta.
+* Como o harvester pode se mover nos eixos X e Y simultaneamente, movimentos diagonais devem ser feitos sempre que possível para seguir o caminho mais curto.
+* O harvester nunca receberá um comando para colher seu local de partida.
+* Nunca haverá mais de 6 locais de colheita pendentes.

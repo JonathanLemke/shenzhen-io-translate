@@ -1,10 +1,10 @@
-* *time* is a simple input connected to a DT2415 clock providing the current time.
-* *sensor* is a simple input connected to an infrared sensor.
-* *alarm* is a simple output connected to a silent alarm.
-* When the current *time* equals the on time, the device should be _armed_.
-* When the current *time* equals the off time, the device should be _disarmed_.
-* Whenever the device is _armed_ and the *sensor* reads at or above a value of 20, the *alarm* output should be active.
+* *time* é uma entrada simples conectada a um relógio DT2415 fornecendo a hora atual.
+* *sensor* é uma entrada simples conectada a um sensor infravermelho.
+* *alarm* é uma saída simples conectada a um alarme silencioso.
+* Quando o tempo *time* é igual ao tempo ligado, o dispositivo deve estar armado_.
+* Quando o tempo *time* é igual ao tempo de inatividade, o dispositivo deve ser _disarmed_.
+* Sempre que o dispositivo for _armed_ e o *sensor* for de valor igual ou superior a 20, a saída de *alarm* deverá estar ativa.
 
 ################
 
-* The on and off times are set by the operator using dials that can be read as XBus inputs and use numerical values compatible with the DT2415.
+* Os tempos ligado e desligado são definidos pelo operador usando os mostradores que podem ser lidos como entradas do XBus e usam valores numéricos compatíveis com o DT2415.

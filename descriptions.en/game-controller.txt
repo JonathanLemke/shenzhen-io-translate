@@ -1,8 +1,8 @@
-* *x* and *y* are simple inputs connected to a joystick.
-* *a* and *b* are simple inputs connected to buttons.
-* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
-* *radio-tx* is an XBus output connected to a radio transmitter.
-* When a data packet is received over the radio from the game console, respond with the following 3-value data packet, making sure to use the most recent input values:
+* *x* e *y* são entradas simples conectadas a um joystick.
+* *a* e *b* são entradas simples conectadas aos botões.
+* *radio-rx* é uma entrada XBus sem bloqueio conectada a um receptor de rádio.
+* *radio-tx* é uma saída do XBus conectada a um transmissor de rádio.
+* Quando um pacote de dados é recebido pelo rádio a partir do console do jogo, responda com o seguinte pacote de dados de 3 valores, certificando-se de usar os valores de entrada mais recentes:
 
 #############
 

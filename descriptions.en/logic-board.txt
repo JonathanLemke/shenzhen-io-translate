@@ -1,9 +1,9 @@
-* *logos-data* and *telos-data* are XBus inputs connected to neural processors.
-* *logos-pump* and *telos-pump* are simple outputs connected to neural processor circulatory pumps.
-* *mesh-data* is an XBus output connected to a neural mesh network.
-* Neural processors *LOGOS* and *TELOS* will occasionally emit *data* packets consisting of 24 data values and 1 checksum value. If the checksum matches the data, forward the entire packet to *mesh-data*.
+* *logos-data* e *telos-data* são entradas XBus conectadas a processadores neurais.
+* *logos-pump* e *telos-pump* são saídas simples conectadas a bombas de circulação de processadores neurais.
+* *mesh-data* é uma saída do XBus conectada a uma rede de malha neural.
+* Processadores neurais *LOGOS* e *TELOS* ocasionalmente emitem *data* pacotes consistindo de 24 valores de dados e 1 valor de checksum. Se a soma de verificação corresponder aos dados, encaminhe todo o pacote para *mesh-data*.
 
 ##############
 
-* The circulatory *pumps* on *LOGOS* and *TELOS* should be activated every 5 time units. When a *data* packet is received from a neural processor, activate the corresponding *pump* immediately and reset the delay until the next automatic *pump* activation.
-* To validate the checksum of a *data* packet, start with the first value, subtract the second, add the third, subtract the fourth, add the fifth, and so on. When reaching the final value (the checksum), add it. If the total sum is 0, the packet is valid; otherwise, the packet has been corrupted and is not valid.
+* As *pumps* circulatórias  em *LOGOS* e *TELOS* devem ser ativadas a cada 5 unidades de tempo. Quando um pacote *data* é recebido de um processador neural, ative imediatamente a *pump* correspondente e restaure o atraso até a próxima ativação automática da *pump*.
+* Para validar a soma de verificação de um pacote *data*, comece com o primeiro valor, subtraia o segundo, adicione o terceiro, subtraia o quarto, adicione o quinto e assim por diante. Ao atingir o valor final (a soma de verificação), adicione-o. Se a soma total for 0, o pacote é válido; caso contrário, o pacote foi corrompido e não é válido.
