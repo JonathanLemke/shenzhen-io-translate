@@ -1,13 +1,13 @@
-* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
-* *power-0*, *power-1*, and *power-2* are simple outputs connected to high-power switches that control industrial equipment.
-* When a data packet is received over the *radio*, read it and execute the corresponding command in the following table:
+* *radio-rx* é uma entrada XBus sem bloqueio conectada a um receptor de rádio.
+* *power-0*, *power-1* e *power-2* são saídas simples conectadas a chaves de alta potência que controlam equipamentos industriais.
+* Quando um pacote de dados é recebido pelo * radio *, leia-o e execute o comando correspondente na tabela a seguir:
 
 ##############
 
-| -1 | keep alive | do nothing
--------------------------------------------------------------
-| 0  | power off  | read another value and turn off that output
--------------------------------------------------------------
-| 1  | power on   | read another value and turn on that output
+| -1 | mantenha viva | fazer nada
+-------------------------------------------------- -----------
+| 0  | desligue      | leia outro valor e desligue essa saída
+-------------------------------------------------- -----------
+| 1  | poder ligado  | leia outro valor e ligue essa saída
 
-* Turn off all *power* outputs when 5 or more time units have elapsed without receiving a data packet.
+* Desligue todas as saídas *power* quando 5 ou mais unidades de tempo tiverem decorrido sem receber um pacote de dados.

@@ -1,13 +1,13 @@
-* *error* is an XBus input indicating the current reactor error, if any.
-* *power* is a simple input indicating the current power output of the generator.
-* *temp* is a simple input indicating the current temperature of the reactor's core.
-* *control* is a simple input indicating the current state of the reactor's control rods.
-* *display* is an XBus display output corresponding to a LX900C custom LCD.
-* Continuously update the *display* to show the current status of the reactor.
+* *error* é uma entrada do XBus indicando o erro atual do reator, se houver.
+* *power* é uma entrada simples que indica a saída de energia atual do gerador.
+* *temp* é uma entrada simples que indica a temperatura atual do núcleo do reator.
+* *control* é uma entrada simples que indica o estado atual das hastes de controle do reator.
+* *display* é uma saída de vídeo XBus correspondente a um LCD personalizado LX900C.
+* Atualize continuamente o *display* para mostrar o status atual do reator.
 
 ##############
 
-* To turn on a *display* segment, send that segment's ID to the *display* over XBus. To turn off a *display* segment, send that segment's ID multiplied by -1. 
-* To turn off all *display* segments, send the value -999 to the *display* over XBus.
-* If reading from *error* provides a value, send that value to the *display* unchanged to turn the corresponding *error* indicator on (positive) or off (negative).
-* Look in the “Supplemental Data” section of the manual to find the CUSTOM LCD SPECIFICATIONS for the *display*, in addition to specific instructions for how to display the different pieces of status information.
+* Para ativar um segmento *display*, envie o ID desse segmento para o *display* sobre o XBus. Para desativar um segmento *display*, envie o ID desse segmento multiplicado por -1.
+* Para desligar todos os segmentos *display*, envie o valor -999 para o *display* sobre o XBus.
+* Se a leitura de *error* fornecer um valor, envie esse valor para *display* inalterado para ativar o indicador *error* correspondente (positivo) ou desligado (negativo).
+* Consulte a seção "Dados Suplementares" do manual para encontrar as ESPECIFICAÇÕES DO LCD PERSONALIZADO para o *display*, além de instruções específicas sobre como exibir as diferentes informações de status.

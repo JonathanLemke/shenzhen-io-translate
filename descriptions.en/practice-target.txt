@@ -1,13 +1,13 @@
-* *detect* is a simple input that detects when a trainee has fired their weapon.
-* *target-x* and *target-y* are simple inputs that detect where the target has been hit.
-* *score-1* and *score-2* are XBus outputs connected to large numeric displays.
+* *detect* é uma entrada simples que detecta quando um aluno disparou sua arma.
+* *target-x* e *target-y* são entradas simples que detectam onde o alvo foi atingido.
+* *score-1* e *score-2* são saídas XBus conectadas a grandes exibições numéricas.
 
-* Two trainees each take 4 shots and score points depending on where they hit the target. To determine the point value of a shot, find the Euclidean distance (using the Pythagorean theorem) between the hit location and the center of the target, located at (50, 50):
+* Dois treinandos, cada um, fazem 4 tiros e marcam pontos dependendo de onde acertam o alvo. Para determinar o valor em pontos de um tiro, encontre a distância euclidiana (usando o teorema de Pitágoras) entre a localização da batida e o centro do alvo, localizado em (50, 50):
 
 ##############
 
-| distance < 10 | 4 points | 20 <= distance < 30 | 1 point
--------------------------------------------------------
-| 10 <= distance < 20 | 2 points | distance >= 30 | -2 points
+| distância <10        | 4 pontos | 20 <= distância <30 | 1 ponto
+-------------------------------------------------- ----------------
+| 10 <= distância < 20 | 2 pontos | distância >= 30     | -2 pontos
 
-* The numeric displays should be updated with the trainee's scores as they compete, and should flash 3 times at the end before turning off to indicate that the game is over.
+* As exibições numéricas devem ser atualizadas com as pontuações do aluno enquanto competem, e devem piscar 3 vezes no final antes de se desligar para indicar que o jogo acabou.

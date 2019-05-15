@@ -1,12 +1,12 @@
-* *keypad* is an XBus input connected to a keypad.
-* *extrude* is a simple output connected to a meat extruder.
-* *valve-0* through *valve-2* are simple outputs connected to valves in the meat extruder that control whether LEAN MIX (low) or FAT MIX (high) is extruded.
-* When a value is available from the *keypad*, read it and assemble the corresponding MEAT SPECIFICATION, which are found on a page in the “Supplemental Data” section of the manual:
+* *keypad* é uma entrada XBus conectada a um teclado.
+* *extrude* é uma saída simples conectada a uma extrusora de carne.
+* *valve-0* através *valve-2* são saídas simples conectadas a válvulas na extrusora de carne que controlam se LEAN MIX (low) ou FAT MIX (high) é extrudado.
+* Quando um valor estiver disponível no *keypad*, leia-o e monte a MEAT SPECIFICATION correspondente, que se encontra em uma página na seção “Dados Suplementares” do manual:
 
 ##############
 
-| 1 | cutlet-style meat
+| 1 | carne ao estilo de costeleta - cutlet-style meat
 ------------------------
-| 2 | steak-style meat
+| 2 | carne ao estilo de filé - steak-style meat
 ------------------------
-| 3 | bacon-style meat
+| 3 | carne ao estilo bacon - bacon-style meat

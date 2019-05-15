@@ -1,3 +1,3 @@
-* *button* is a simple input connected to a button.
-* *pulse* is a simple output connected to an electronic device.
-* When the *button* is pushed, generate *pulses* as indicated in the verification tab until the *button* is released.
+* *button* é uma entrada simples conectada a um botão.
+* *pulse* é uma saída simples conectada a um dispositivo eletrônico.
+* Quando o *button* for pressionado, gere *pulses* conforme indicado na guia de verificação até que o *button* seja liberado.
